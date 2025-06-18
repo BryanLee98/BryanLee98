@@ -30,9 +30,7 @@
 
 **수상 및 대외 활동**
 
-- 2025.04 : Spike Asia 2025, 'Brand Experience & Activation' 부문 Bronze.
-- [스파이크 아시아 수상 기사](https://www.hsad.co.kr/kor/about/news/info/PST_202504280856540083)
-- [CU 마음보관](https://www.youtube.com/watch?v=HVS4Yf_rpNo)
+- 2025.04 : Spike Asia 2025, 'Brand Experience & Activation' 부문 Bronze [스파이크 아시아 수상 기사](https://www.hsad.co.kr/kor/about/news/info/PST_202504280856540083) [CU 마음보관](https://www.youtube.com/watch?v=HVS4Yf_rpNo)
 
 - 2024.10 : 대한민국 AI 국제 영화제, 'Art & Culture' 부분 1등. "기억의 잔영"
 -[기억의 잔영 유튜브 링크](https://www.youtube.com/watch?v=PFChhel_Ov0&t=3s)
