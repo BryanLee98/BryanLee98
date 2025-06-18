@@ -12,8 +12,8 @@
 
 # 사용하는 프레임워크, 라이브러리
 <img alt="nextdotjs" src="https://img.shields.io/badge/next.js-000?logo=nextdotjs&logoColor=white"> 
-[!React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-[!Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
+<img alt"React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB")
+
 
 # 사용하는 언어
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanLee98)](https://github.com/BryanLee98/github-readme-stats)
