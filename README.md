@@ -29,12 +29,17 @@
 - 2017.03 ~ 2022. 02 : 서경대학교 영화영상학과 연출전공 학사 졸업
 
 **수상 및 대외 활동**
+
+- 2025.04 : Spike Asia 2025, 'Brand Experience & Activation' 부문 Bronze.
+- [스파이크 아시아 수상 기사](https://www.hsad.co.kr/kor/about/news/info/PST_202504280856540083)
+- [CU 마음보관](https://www.youtube.com/watch?v=HVS4Yf_rpNo)
+
 - 2024.10 : 대한민국 AI 국제 영화제, 'Art & Culture' 부분 1등. "기억의 잔영"
 -[기억의 잔영 유튜브 링크](https://www.youtube.com/watch?v=PFChhel_Ov0&t=3s)
 
 - 2023.12 :한국문화예술위원회 주관 제 2회 APE CAMP, 우수 팀원 해외 필드 트립 선정
 -[APE CAMP 사업 개요](https://www.arko.or.kr/content/6034)
-      
+
 # GIT ANIMALS
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=BryanLee98&utm_content=farm">
 <img
