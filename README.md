@@ -1,5 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFCC00&height=150&section=header" />
 # 안녕하세요
+
 공학과 예술을 겸비한 프론트엔드 이승엽입니다.
 신입이라 모든게 재밌고 새롭습니다. 코드를 어떻게 하면 더 줄이고 압축할지 고민하는 걸 좋아합니다.
 
