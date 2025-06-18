@@ -7,8 +7,8 @@
 - [🚗 TripTrip 깃허브](https://github.com/BryanLee98/frontendDeveloping)
 
 **심심풀이 딴짓용 스네이크 게임**
-- 간단한 바닐라 자바스크립트와 CSS를 통한 스네이크 게임
-- (리포스트리 업로드 예정)
+- 간단한 바닐라 자바스크립트를 이용한 스네이크 게임
+- [🐍 Snake Game 깃허브](https://github.com/BryanLee98/Snake-Game))
 
 # 사용하는 기술 스택
 <img alt="TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="PY" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="nextdotjs" src="https://img.shields.io/badge/next.js-000?logo=nextdotjs&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img alt="GraphQl" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/> <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
