@@ -10,6 +10,10 @@
 - 기본적인 CRUD, 상품 구매 및 포인트 충전, 로그인과 회원가입 등 전체적인 프론트엔드의 기능 구현에 충실한 포트폴리오 입니다.
 - [🚗 TripTrip 깃허브](https://github.com/BryanLee98/frontendDeveloping)
 
+**건담 프라모델 재고 찾기(기여도 5%)**
+- 파이썬으로 짜여진 로직을 그냥 웹으로 끌고와서 연결하기만 해봤습니다.
+- [GundamFinder](https://github.com/BryanLee98/GundamFinder)
+
 **심심풀이 딴짓용 스네이크 게임**
 - 간단한 바닐라 자바스크립트를 이용한 스네이크 게임
 - [🐍 Snake Game 깃허브](https://github.com/BryanLee98/Snake-Game))
