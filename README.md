@@ -11,7 +11,8 @@
 - [🚗 TripTrip 깃허브](https://github.com/BryanLee98/frontendDeveloping)
 
 **넷플릭스 클론 코딩**
-- [짭플릭스](https://github.com/BryanLee98/my-netflix-clone)
+- [짭플릭스 배포 링크](https://my-netflix-clone-xi.vercel.app/)
+- [짭플릭스 깃허브](https://github.com/BryanLee98/my-netflix-clone)
 
 **건담 프라모델 재고 찾기(기여도 5%)**
 - 파이썬으로 짜여진 로직을 그냥 웹으로 끌고와서 연결하기만 해봤습니다.
