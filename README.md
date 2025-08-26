@@ -11,7 +11,7 @@
 - [🚗 TripTrip 깃허브](https://github.com/BryanLee98/frontendDeveloping)
 
 **넷플릭스 클론 코딩**
-- [짭플릭스 배포 링크](https://my-netflix-clone-xi.vercel.app/)
+- [🎬 짭플릭스 배포 링크](https://my-netflix-clone-xi.vercel.app/)
 - [짭플릭스 깃허브](https://github.com/BryanLee98/my-netflix-clone)
 
 **건담 프라모델 재고 찾기(기여도 5%)**
