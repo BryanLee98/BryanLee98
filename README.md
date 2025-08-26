@@ -6,6 +6,10 @@
 
 # Projects
 
+**성모원탑병원 웹디자인 및 UI 퍼블리싱(기여도 70%)**
+- 병원 홈페이지 외주를 받아 UI 디자인과 퍼블리싱을 진행하였습니다.
+- [🏥성모원탑병원 홈페이지](http://www.stwill.co.kr/)
+
 **여행지 마켓 플레이스 TripTrip(진행도 80%)**
 - 기본적인 CRUD, 상품 구매 및 포인트 충전, 로그인과 회원가입 등 전체적인 프론트엔드의 기능 구현에 충실한 포트폴리오 입니다.
 - [🚗 TripTrip 깃허브](https://github.com/BryanLee98/frontendDeveloping)
